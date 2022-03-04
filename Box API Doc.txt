@@ -1,0 +1,7 @@
+https://app.box.com/developers/console/app/1649768/configuration
+
+
+
+200: success
+201: Success on creating folder-return folder object
+401: Unauthorized
